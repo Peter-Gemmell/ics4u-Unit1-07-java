@@ -41,7 +41,7 @@ final class Main {
     */
 
     public static void generateMarks(final ArrayList<String> arrayOfStudents,
-                                       final ArrayList<String> arrayOfAssignments) {
+                                final ArrayList<String> arrayOfAssignments) {
 
         final Random random = new Random();
 
